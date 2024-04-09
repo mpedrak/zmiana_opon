@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=C:\Users\micha\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S C:\Users\micha\CLionProjects\czy-nalezy-zmienic-opony -B C:\Users\micha\CLionProjects\czy-nalezy-zmienic-opony\cmake-build-debug
+-- RapidJSON found. Headers: C:/Users/micha/vcpkg/installed/x64-windows/share/rapidjson/../../include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/micha/CLionProjects/czy-nalezy-zmienic-opony/cmake-build-debug
